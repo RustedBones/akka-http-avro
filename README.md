@@ -8,6 +8,10 @@
 
 akka-http avro  marshalling/unmarshalling for generated java avro specific records
 
+After the akka [licencing change](https://www.lightbend.com/blog/why-we-are-changing-the-license-for-akka),
+no further development is expected on `akka-http-avro`.
+If you're migrating to pekko-http, see [pekko-http-avro](https://github.com/RustedBones/pekko-http-avro).
+
 
 ## Versions
 
